@@ -1,4 +1,4 @@
-package 字符串;
+package src.字符串;
 
 public class Q1 {
 

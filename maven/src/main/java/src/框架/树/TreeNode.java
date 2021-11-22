@@ -1,4 +1,4 @@
-package 框架.树;
+package src.框架.树;
 
 public class TreeNode {
     public int value;

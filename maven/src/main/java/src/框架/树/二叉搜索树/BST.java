@@ -1,6 +1,6 @@
-package 框架.树.二叉搜索树;
+package src.框架.树.二叉搜索树;
 
-import 框架.树.TreeNode;
+import src.框架.树.TreeNode;
 
 public class BST {
 
